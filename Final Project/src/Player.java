@@ -68,7 +68,7 @@ public class Player {
 	{
 		manaCurrent = newManaCurrent;
 	}
-	// ---- Stamina Max ----
+	// ---- Stamina Current ----
 	public int getStaminaCurrent()
 	{
 		return staminaCurrent;
